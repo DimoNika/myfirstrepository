@@ -13,7 +13,7 @@ bot = telebot.TeleBot('TOKEN')
 # echotoken = 
 # schooltoken = 
 
-owm = pyowm.OWM('cd33a9849f802dc3c3181b2977172e2b')
+owm = pyowm.OWM('pyowm token')
 # observation = owm.weather_at_place('Kiev, UA')
 # w = observation.get_weather()
 
