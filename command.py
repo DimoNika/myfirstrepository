@@ -10,8 +10,8 @@ print('start')
 bot = telebot.TeleBot('TOKEN')
 
 
-# echotoken = 1039008736:AAEn0PZjEib-JWtIIqMCE5-GiEDmOuNUX2I 
-# schooltoken = 811953190:AAGbIznmcX_YXhFGn6loF3mb7JwcK91HMZ4
+# echotoken = 
+# schooltoken = 
 
 owm = pyowm.OWM('cd33a9849f802dc3c3181b2977172e2b')
 # observation = owm.weather_at_place('Kiev, UA')
