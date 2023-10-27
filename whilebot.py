@@ -8,7 +8,7 @@ import time
 bot = telebot.TeleBot("TOKEN")
 
 # my
-chat_id = 844162808
+chat_id = *edited*
 
 
 bot.send_message(chat_id, 'Bot started')
